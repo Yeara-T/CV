@@ -7,7 +7,7 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	color: #636659;
 	background-color: #f8f8fc;
 }
 
@@ -28,7 +28,7 @@ body {
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "-";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
@@ -36,8 +36,9 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #A5AB92;
 }
+
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
