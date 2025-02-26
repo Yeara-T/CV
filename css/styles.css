@@ -36,7 +36,8 @@ body {
 }
 
 .biography-details li::before {
-	color: #A5AB92;
+	color: #A5AB92
+		;
 }
 
 
@@ -44,6 +45,13 @@ body {
 	padding-left: 1em;
 }
 
+.language-level .language-progress {
+	background-color: #D11417 !important; 
+}
+
+.language-progress {
+	background-color: #E0171A;
+}
 /* Styles for contact icons */
 
 .contact-icon {
