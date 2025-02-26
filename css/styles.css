@@ -46,7 +46,7 @@ body {
 }
 
 .language-level .language-progress {
-	background-color: #D11417 !important; 
+	background-color: #A5AB92 !important; 
 }
 
 .language-progress {
@@ -57,4 +57,7 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}.language-level .w-50 .border .border-info .border-2 .position-relative {
+	background-color: hotpink
 }
+
